@@ -2,6 +2,7 @@
 Hi, I'm Carmelo! I have a technical background in programing and currently studying Data science engineering (Universidad Pontificia Bolivariana), This is a repository to showcase skills, share projects and track my progress related to Data Science.
 
 ## Case studies
+* [Amazon and Facebook Risk and Return.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Amazon%26Facebook_RiskAndReturns.ipynb)
 * [A_Visual_History_of_Nobel_Prize_Winners.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/A_Visual_History_of_Nobel_Prize_Winners.ipynb)
 * [Credit_card_applications](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/creditCardapplications.ipynb)
 
@@ -10,7 +11,9 @@ Hi, I'm Carmelo! I have a technical background in programing and currently study
 * [Market_segmentation_clustering.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Market_segmentation_clustering.ipynb)
 
 ## Certifications
-* [Google Data Analytics Certificate](https://www.credly.com/badges/6213601b-d0ea-46bb-9951-c98c14dc8a2a/linked_in_profile)
+* [Google Data Analytics Work Certificate](https://www.credly.com/badges/6213601b-d0ea-46bb-9951-c98c14dc8a2a/linked_in_profile)
+* [Datacamp Data Scientist with Python Certification](https://www.datacamp.com/statement-of-accomplishment/track/2c6b87d436d4d487fbc90707b68c2d528b9d29ad)
+
 
 ## Contact
 * [Linkdn](https://www.linkedin.com/in/carmelo-velez-senior-6082a1176/)
