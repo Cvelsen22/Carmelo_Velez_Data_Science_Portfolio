@@ -10,6 +10,7 @@ Hi, I'm Carmelo! I have a technical background in programing and currently study
 * [carPricePrediction_linearRegression.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/carPricePrediction_linearRegression.ipynb)
 * [Market_segmentation_clustering.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Market_segmentation_clustering.ipynb)
 * [SQL_analysis_international_debt_TheWorldBank_.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/SQL_analysis_international_debt_TheWorldBank_.ipynb)
+* [USA_car_safe_policy Market_exploratory_analysis.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/USA_car_safe_policy_exploratory_analysis.ipynb)
 
 ## Certifications
 * [Google Data Analytics Work Certificate](https://www.credly.com/badges/6213601b-d0ea-46bb-9951-c98c14dc8a2a/linked_in_profile)
