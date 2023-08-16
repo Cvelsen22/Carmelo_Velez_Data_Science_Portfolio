@@ -3,6 +3,7 @@ Hi, I'm Carmelo! I have a technical background in programing and currently study
 
 ## Case studies
 * [Modeling_Car_Insurance_Claim_Outcomes_Logistic_Reg_vs_Knn.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Modeling_Car_Insurance_Claim_Outcomes_Logistic_Reg_vs_Knn.ipynb)
+* [Walmart_Sales_Prediction_Lasso_vs_Ridge_reg_.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Walmart_Sales_Prediction_Lasso_vs_Ridge_reg_.ipynb)
 * [Amazon and Facebook Risk and Return.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Amazon%26Facebook_RiskAndReturns.ipynb)
 * [A_Visual_History_of_Nobel_Prize_Winners.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/A_Visual_History_of_Nobel_Prize_Winners.ipynb)
 * [Credit_card_applications](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/CreditCardApproval_LogisticRegression.ipynb)
