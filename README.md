@@ -14,6 +14,7 @@ Hi, I'm Carmelo! I have a technical background in programing and currently study
 * [SQL_analysis_international_debt_TheWorldBank_.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/SQL_analysis_international_debt_TheWorldBank_.ipynb)
 * [USA_car_safe_policy Market_exploratory_analysis.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/USA_car_safe_policy_exploratory_analysis.ipynb)
 * [Credit_card_applications LogisticRegression](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/CreditCardApproval_LogisticRegression.ipynb)
+* [Arctic_Penguin_Exploration_K_means_clustering](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Arctic_Penguin_Exploration_K_means_clustering.ipynb)
 
 ## Certifications
 * [Google Data Analytics Work Certificate](https://www.credly.com/badges/6213601b-d0ea-46bb-9951-c98c14dc8a2a/linked_in_profile)
