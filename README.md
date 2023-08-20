@@ -12,6 +12,7 @@ Hi, I'm Carmelo! I have a technical background in programing and currently study
 * [carPricePrediction_linearRegression.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/carPricePrediction_linearRegression.ipynb)
 * [Market_segmentation_clustering.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Market_segmentation_clustering.ipynb)
 * [SQL_analysis_international_debt_TheWorldBank_.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/SQL_analysis_international_debt_TheWorldBank_.ipynb)
+* [Create a database and squema for a restaurant](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Bytes_of_china.sql)
 * [USA_car_safe_policy Market_exploratory_analysis.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/USA_car_safe_policy_exploratory_analysis.ipynb)
 * [Credit_card_applications LogisticRegression](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/CreditCardApproval_LogisticRegression.ipynb)
 * [Arctic_Penguin_Exploration_K_means_clustering](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Arctic_Penguin_Exploration_K_means_clustering.ipynb)
