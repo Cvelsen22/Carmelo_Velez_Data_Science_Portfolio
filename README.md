@@ -2,6 +2,7 @@
 Hi, I'm Carmelo! I have a technical background in programing and currently studying Data science engineering (Universidad Pontificia Bolivariana), This is a repository to showcase skills, share projects and track my progress related to Data Science.
 
 ## Case studies
+* [House Price Prediction with XGBoost](https://github.com/Cvelsen22/HousePricePredicitonXGBoost/tree/main/supervised_learning_projects)
 * [Modeling_Car_Insurance_Claim_Outcomes_Logistic_Reg_vs_Knn](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Modeling_Car_Insurance_Claim_Outcomes_Logistic_Reg_vs_Knn.ipynb)
 * [Walmart_Sales_Prediction_Lasso_vs_Ridge_reg](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Walmart_Sales_Prediction_Lasso_vs_Ridge_reg_.ipynb)
 * [Amazon and Facebook Risk and Return](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Amazon%26Facebook_RiskAndReturns.ipynb)
