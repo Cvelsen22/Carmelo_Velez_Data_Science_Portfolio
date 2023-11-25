@@ -12,6 +12,7 @@ Hi, I'm Carmelo! I have a technical background in programing and currently study
 * [A_Visual_History_of_Nobel_Prize_Winners](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/A_Visual_History_of_Nobel_Prize_Winners.ipynb)
 
 ## Projects
+* [Wages per hour prediction: Neuronal Networks with Keras API Case study](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/hourly_wages_prediction_with_Keras.ipynb)
 * [carPricePrediction_linearRegression.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/carPricePrediction_linearRegression.ipynb)
 * [Market_segmentation_clustering.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/Market_segmentation_clustering.ipynb)
 * [SQL_analysis_international_debt_TheWorldBank_.ipynb](https://github.com/Cvelsen22/Carmelo-Velez---Data-Analysis-Portfolio/blob/main/SQL_analysis_international_debt_TheWorldBank_.ipynb)
